@@ -1,1 +1,1 @@
-# resilent than Django in endpoint handling
+### More resilent than Django in endpoint handling (perosnel perspective)
